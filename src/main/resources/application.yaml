@@ -1,0 +1,6 @@
+"%dev,test":
+  quarkus:
+    keycloak:
+      devservices:
+        roles:
+          alice: sample_role
